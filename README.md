@@ -134,6 +134,7 @@ We currently have translations available in:
 - Ruby: [generate invoices from Stripe webhooks](https://github.com/Invoiced/ruby-stripe-invoice-generator)
 - Node.js: [invoice-generator.js](https://github.com/Invoiced/invoice-generator.js)
 - PHP: [generate invoices programmatically](https://github.com/concept-core/Invoiced)
+- Python: [python-invoice-generator](https://github.com/aleaforny/python-invoice-generator)
 
 ## API Reference
 
